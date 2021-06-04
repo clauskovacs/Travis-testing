@@ -1,4 +1,4 @@
-https://travis-ci.com/clauskovacs/travis-testing.svg?branch=master
+[![Build Status](https://travis-ci.com/clauskovacs/travis-testing.svg)](https://travis-ci.com/github/clauskovacs/travis-testing)
 
 # travis-testing
 
